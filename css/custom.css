@@ -1,0 +1,12 @@
+fieldset{margin:1% auto;}
+table{ margin-top: 20px;}	
+.box-mensagem-crud{ margin-top: 10px;}
+.msg-erro{ color: red; }
+
+
+container {
+	min-width: 400px;
+	max-width: 400px;
+	height: 270px;
+	margin: 0 auto
+}
